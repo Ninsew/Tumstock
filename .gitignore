@@ -1,0 +1,12 @@
+# OS / editor junk
+.DS_Store
+Thumbs.db
+*.swp
+
+tools/__pycache__/
+tools/*.pyc
+
+# Local notes and test data (not published)
+CLAUDE.md
+logs/
+*.zip

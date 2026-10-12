@@ -1,0 +1,24 @@
+## Interface: 16001
+## Title: Tumstock
+## Notes: Approximate range to target/focus/mouseover in fine-grained brackets.
+## Author: pontus
+## Version: 0.5.0
+## SavedVariablesPerCharacter: TumstockCharDB
+
+Data/Items.lua
+Data/Forever.lua
+Core.lua
+Config.lua
+Checks.lua
+Engine.lua
+Display.lua
+Nameplates.lua
+Minimap.lua
+Settings.lua
+
+# Test tools: /tum debug
+Debug/Output.lua
+Debug/Probe.lua
+Debug/Discover.lua
+Debug/Record.lua
+Debug/Plates.lua
