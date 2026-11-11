@@ -1,8 +1,12 @@
 ## Interface: 16001
 ## Title: Tumstock
 ## Notes: Approximate range to target/focus/mouseover in fine-grained brackets.
-## Author: pontus
+## Author: Ninsew
 ## Version: 0.5.0
+## Category: Combat
+## IconTexture: Interface\Icons\INV_Misc_Spyglass_02
+## X-License: MIT
+## X-Website: https://github.com/Ninsew/Tumstock
 ## SavedVariablesPerCharacter: TumstockCharDB
 
 Data/Items.lua
